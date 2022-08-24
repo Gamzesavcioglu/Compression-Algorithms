@@ -1,2 +1,2 @@
-# ProgramlamaLab-1_2
-  Projede karakter tabanlı LZ77, DEFLATE sıkıştırma algoritmaları kullanılarak dosya sıkıştırma uygulaması gerçekleştirilmiştir.
+# Compression Algorithms
+  In the project, file compression application was carried out by using character-based LZ77, DEFLATE compression algorithms.
